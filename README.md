@@ -1,4 +1,4 @@
-# AWN | Desenvolvedor Full Stack
+# Ygor | Desenvolvedor Full Stack
 
 [![Portfolio](https://img.shields.io/badge/Portfolio-000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/YgorMoraes)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/seulinkedin)
@@ -7,7 +7,7 @@
 
 ## 👨‍💻 Sobre Mim
 
-Olá! Sou AWN (anteriormente conhecido como "Kronix"), um desenvolvedor Full Stack com paixão por criar experiências digitais modernas e eficientes. Minha especialidade está no desenvolvimento web e na criação de bots para Discord que transformam a experiência do usuário.
+Olá! Sou Ygor (anteriormente conhecido como "Leaf"), um desenvolvedor Full Stack com paixão por criar experiências digitais modernas e eficientes. Minha especialidade está no desenvolvimento web e na criação de bots para Discord que transformam a experiência do usuário.
 
 ## 🚀 Habilidades
 
