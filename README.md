@@ -15,7 +15,7 @@
 <a href="#"><img align="left" src="https://i.pinimg.com/736x/9e/68/63/9e6863f8d4c399156e45d1aaf706f08a.jpg" width="20%"/> 
 
 ```lua
-kny (Ygor)
+Zyko (Ygor)
 ▔▔▔▔▔▔▔▔▔
 Idade: 17 anos
 Localização: Novo Hamburgo - RS, Brasil
