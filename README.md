@@ -2,50 +2,99 @@
 
 # Ygor Tailer
 
-Full Stack Developer criando produtos web, backend e cloud.
+Building modern software.
 
-<br />
+Creator of **Nivo** and founder of **Moose**.
+
+<br>
 
 <a href="https://nivo.lat">
-  <img src="https://img.shields.io/badge/Testar%20Nivo-nivo.lat-22C55E?style=for-the-badge&labelColor=0B0F14" alt="Testar Nivo em nivo.lat" />
+    <img src="https://img.shields.io/badge/Nivo-Deploy%20Platform-3B82F6?style=for-the-badge" />
 </a>
 
-<br /><br />
-
-<img src="https://readme-typing-svg.herokuapp.com?font=SUSE&size=28&pause=1800&color=22C55E&center=true&vCenter=true&width=800&height=50&lines=Full+Stack+Developer;Criando+a+Nivo;Web%2C+backend+e+cloud" alt="Typing SVG" />
+<a href="https://moose.lat">
+    <img src="https://img.shields.io/badge/Moose-Software%20Company-111827?style=for-the-badge" />
+</a>
 
 </div>
 
 ---
 
-## Sobre
+## About
 
-Sou o Ygor, desenvolvedor full stack de Novo Hamburgo - RS, Brasil.  
-Gosto de construir produtos completos, do frontend ao backend, com foco em experiência simples e código bem organizado.
+I'm a Full Stack Developer from Rio Grande do Sul, Brazil.
 
-## Projeto atual
+I enjoy building complete software products—from frontend and backend to infrastructure and deployment.
 
-### Nivo
-
-Cloud hosting em desenvolvimento para publicar e gerenciar projetos com uma experiência mais direta.
-
-**Acesse ou teste:** [nivo.lat](https://nivo.lat)
-
-## Stack
-
-<p>
-  <img src="https://skillicons.dev/icons?i=ts,nextjs,react,nodejs,go,postgres,redis,docker,git" alt="TypeScript, Next.js, React, Node.js, Go, PostgreSQL, Redis, Docker, Git" />
-</p>
-
-- **Frontend:** Next.js, React, TypeScript
-- **Backend:** Node.js, Go, APIs REST
-- **Banco de dados:** PostgreSQL, Redis
-- **DevOps:** Docker, Linux, Git
+Today I'm focused on building **Nivo**, while growing **Moose**, the company behind it.
 
 ---
 
-<div align="center">
+## Projects
 
-**Nivo:** [https://nivo.lat](https://nivo.lat)
+### 🫎 Moose
+
+Software company focused on building developer tools and modern software products.
+
+**Website**
+
+https://moose.lat
+
+---
+
+### ☁️ Nivo
+
+Modern deployment platform for applications, databases and services.
+
+**Website**
+
+https://nivo.lat
+
+---
+
+## Tech Stack
+
+<p align="left">
+<img src="https://skillicons.dev/icons?i=ts,nextjs,react,nodejs,go,postgres,redis,docker,linux,git,github,vscode" />
+</p>
+
+**Frontend**
+
+- Next.js
+- React
+- TypeScript
+- Tailwind CSS
+
+**Backend**
+
+- Node.js
+- Go
+- REST APIs
+
+**Infrastructure**
+
+- Docker
+- PostgreSQL
+- Redis
+- Linux
+
+---
+
+## Currently working on
+
+- Building Nivo
+- Growing Moose
+- Improving deployment infrastructure
+- Cloud tooling
+
+---
+
+## Links
+
+🌐 Website — https://moose.lat
+
+☁️ Nivo — https://nivo.lat
+
+💬 Discord — https://discord.gg/SEULINK
 
 </div>
